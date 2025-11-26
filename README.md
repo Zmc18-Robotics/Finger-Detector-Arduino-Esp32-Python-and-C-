@@ -11,7 +11,8 @@ Here the pictures :
 ![WhatsApp Image 2025-11-27 at 05 19 01](https://github.com/user-attachments/assets/40a7f936-3b92-4c6d-a907-6aa6729c0ad9)
 ![WhatsApp Image 2025-11-27 at 05 25 04](https://github.com/user-attachments/assets/45e1e641-b4ad-4b03-8582-1574d8a99555)
 
-Electrical Circuit :
+Electrical Circuit : 
+
 ![IMG_20251127_054958](https://github.com/user-attachments/assets/4f0bf4ed-3a65-4ba7-a70b-675a739c6fd1)
 
 Here The components and computer :
